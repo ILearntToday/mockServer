@@ -1,0 +1,20 @@
+[
+  {
+    "parent_Id": "-1",
+    "timestamp": 1547379354,
+    "blogTitle": "Java-the most used programming langauge.",
+    "shortDescription": "Java is a programming language that produces software for multiple platforms.",
+    "fullDescription": "Java is a general-purpose computer-programming language that is concurrent, class-based, objec-oriented, and specifically designed to have as few implementation dependencies as possible.",
+    "userId": "1234-user",
+    "numberOfLikes": 12
+  },
+  {
+    "parent_Id": "-1",
+    "timestamp": 1547370354,
+    "blogTitle": "React the most used frontend programming langauge.",
+    "shortDescription": "React is a programming language that produces software for multiple platforms.",
+    "fullDescription": "React is a general-purpose computer-programming language that is concurrent, class-based, objec-oriented, and specifically designed to have as few implementation dependencies as possible.",
+    "userId": "abcd-user",
+    "numberOfLikes": 1
+  }
+]
